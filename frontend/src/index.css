@@ -3,7 +3,28 @@ main {
 }
 
 #basic-navbar-nav {
-  padding: 2rem;
+  padding: 2.5rem;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+.ml-auto .nav-link {
+  font-size: 1.2rem;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  padding: 0.5rem 0;
+  margin: 0 0.7rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  padding: 0.5rem 0;
+  margin: 0 1.5rem;
+  transition: all 0.3s ease-in-out;
 }
 
 .rating span {
@@ -12,4 +33,13 @@ main {
 
 h3 {
   padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.9rem;
+  padding: 1.2rem 0;
+}
+h2 {
+  font-size: 1.6rem;
+  padding: 1.2rem 0;
 }
