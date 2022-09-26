@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "KRAKEN",
     image: "/images/Kraken-22-XIV.png",
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "2",
     name: "GOLEM",
     image: "/images/Golem-03-XIV.png",
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: "3",
     name: "BASILISK",
     image: "/images/Basilisk-28-XV.png",
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "4",
     name: "NAGARANI",
     image: "/images/Nagarani-29-XV.png",
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "5",
     name: "MARILITH",
     image: "/images/Marilith-20-Origin.png",
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: "6",
     name: "DANBANIA",
     image: "/images/Danbania-05-XII.png",
     description:
@@ -78,7 +72,6 @@ const products = [
     numReviews: 15,
   },
   {
-    _id: "7",
     name: "TIAMAT",
     image: "/images/Tiamat-19-XII.png",
     description:
@@ -91,7 +84,6 @@ const products = [
     numReviews: 5,
   },
   {
-    _id: "8",
     name: "MANDRAGORA",
     image: "/images/Mandragora-07-XIV.png",
     description:
@@ -104,7 +96,6 @@ const products = [
     numReviews: 2,
   },
   {
-    _id: "9",
     name: "DRAGON AEVIS",
     image: "/images/DragonAevis-08-XIV.png",
     description:
@@ -117,7 +108,6 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: "10",
     name: "NIGHTMARE",
     image: "/images/Nightmare-18-XII.png",
     description:
