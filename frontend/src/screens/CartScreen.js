@@ -14,7 +14,7 @@ import Message from "../components/Message";
 import { addToCart, removeFromCart } from "../actions/cartActions";
 import { useNavigate } from "react-router-dom";
 
-const CartScreen = ({ history }) => {
+const CartScreen = () => {
   const navigate = useNavigate();
   const { id } = useParams();
   const productId = id;
